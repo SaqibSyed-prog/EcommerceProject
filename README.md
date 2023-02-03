@@ -21,3 +21,5 @@ Using PHP in MVC format, the website is able to:
 - View other's wishlist and add it to cart
 
 - Generate order id after checking out
+
+All the information are stored in a database and are accessed in a secure way
