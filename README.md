@@ -2,7 +2,7 @@
 
 Horizon is a web application that simulates a real shopping website like amazon.
 
-Using PHP in MVC format, the website is able to:
+Using PHP in MVC format, HTML and Bootstrap CSS, the website is able to:
 
 - Register/Login/Logout
 
